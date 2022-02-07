@@ -1,0 +1,7 @@
+export const SUCCESS = 'SUCCESS'
+export const ERROR = 'ERROR'
+export const LOGOUT = 'LOGOUT'
+export const DATAFETCH= 'DATAFETCH'
+export const DATAFETCHERROR= 'DATAFETCHERROR'
+export const DELETE = 'DELETE'
+export const SUCCESSFULADD = 'SUCCESSFULADD'
